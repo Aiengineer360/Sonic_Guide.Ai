@@ -6,6 +6,10 @@
 
 SonicGuide AI is an advanced audio tour generation system that creates personalized, immersive audio experiences for any location worldwide. Using cutting-edge AI agents, it crafts engaging narratives across architecture, history, culinary, and cultural themes, delivering studio-quality audio tours in seconds.
 
+<img width="1303" height="634" alt="image" src="https://github.com/user-attachments/assets/29dd6b59-16c8-4e58-942e-46989d15f4b6" />
+
+<img width="1298" height="637" alt="image" src="https://github.com/user-attachments/assets/512f2225-146c-4e4d-977b-6b7c023dd19b" />
+
 ## 🚀 Features
 
 - 🎯 **Multi-Agent Architecture**: Specialized AI agents for different tour aspects
